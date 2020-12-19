@@ -1,11 +1,11 @@
 #include <WiFi.h>                                                     
 #include <IOXhop_FirebaseESP32.h>
 
-#define FIREBASE_HOST "fir-a92d1.firebaseio.com"
-#define FIREBASE_AUTH "ahqhO1svDsU8ImewZTSLBFejgE0yrDkwEZSYxrxg"
+#define FIREBASE_HOST "Your Firebase Host link"
+#define FIREBASE_AUTH "Your Firebase Authorization Key"
 
-#define WIFI_SSID "Sri" 
-#define WIFI_PASSWORD "redminote7pro"
+#define WIFI_SSID "Your WIFI SSID" 
+#define WIFI_PASSWORD "Your WIFI password"
 
 
 void setup() {
