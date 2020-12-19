@@ -18,7 +18,7 @@ void setup() {
     Serial.print(".");
     delay(500);
   }
-
+  
   Serial.print("\n Connected to ");
   Serial.println(WIFI_SSID);
   Serial.print("IP Address is: ");
